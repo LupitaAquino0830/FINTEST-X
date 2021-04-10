@@ -1,0 +1,62 @@
+body {
+background-image:url(fondo.jpg);
+background-size: 100vw  100vh;
+background-attachment: fixed;
+margin: 0%;
+}
+
+h1 {
+color: black;
+text-align-last: left;
+margin: 0%;
+font-size: 25px;
+margin-bottom: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color: black;
+    text-align-last: left;
+    margin: 0%;
+    font-size: 20px;
+    margin-bottom: 20px;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+h3{
+    color: black;
+    text-align-last: center;
+    margin: 0%;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+h4 {
+color: black;
+text-align-last:center
+margin: 0%;
+font-size: 30px;
+margin-bottom: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+h5 {
+color: black;
+text-align-last:right;
+margin: 0%;
+font-size: 20px;
+margin-bottom: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}    
+
+#boton{
+    background:crimson;
+    color: white;
+    padding: 20px;
+    border-radius: 7px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+#boton:hover{
+    cursor:pointer;
+
+}
